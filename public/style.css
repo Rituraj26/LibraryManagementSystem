@@ -1,0 +1,16 @@
+.button{
+    background-color: gold;
+    border: none;
+    color: white;
+    width:180px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:  none;
+    font-size: 16px;
+    
+}
+.rr {
+    display: grid;
+    grid-gap: 6px;
+    margin: 0 auto;
+}
