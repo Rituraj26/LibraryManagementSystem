@@ -36,5 +36,5 @@ app.post("/register", function(req, res){
 });
 
 app.listen(3000, function(req, res){
-    console.log("started");
+    console.log("Server started");
 });
